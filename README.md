@@ -1,1 +1,1 @@
-# hashmap-test
+# Singleton Fun
